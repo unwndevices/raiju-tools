@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # rm -fr build dist
-VERSION=5.0.0
-NAME="NodeMCU PyFlasher"
-DIST_NAME="NodeMCU-PyFlasher"
+VERSION=0.1.0
+NAME="Raiju-tools"
+DIST_NAME="Raiju-Flasher"
 
 pyinstaller --log-level=DEBUG \
             --noconfirm \

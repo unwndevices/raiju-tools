@@ -32,14 +32,14 @@ VSVersionInfo(
       [
       StringTable(
         u'040904B0',
-        [StringStruct(u'CompanyName', u'Marcel Stör'),
-        StringStruct(u'FileDescription', u'NodeMCU PyFlasher'),
-        StringStruct(u'FileVersion', u'5.0.0.0'),
-        StringStruct(u'InternalName', u'NodeMCU PyFlasher'),
-        StringStruct(u'LegalCopyright', u'© Marcel Stör. All rights reserved.'),
-        StringStruct(u'OriginalFilename', u'NodeMCU-PyFlasher.exe'),
-        StringStruct(u'ProductName', u'NodeMCU PyFlasher'),
-        StringStruct(u'ProductVersion', u'5.0.0.0')])
+        [StringStruct(u'CompanyName', u'Unknown Devices'),
+        StringStruct(u'FileDescription', u'Raiju-tools'),
+        StringStruct(u'FileVersion', u'0.1.0.0'),
+        StringStruct(u'InternalName', u'Raiju-tools'),
+        StringStruct(u'LegalCopyright', u'© Unknown Devices. All rights reserved.'),
+        StringStruct(u'OriginalFilename', u'Raiju-tools.exe'),
+        StringStruct(u'ProductName', u'Raiju-tools'),
+        StringStruct(u'ProductVersion', u'0.1.0.0')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]
